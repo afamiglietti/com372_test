@@ -2,4 +2,6 @@ This is a test.
 
 These lines of text were entered in the atom editor and saved in the test.txt file in our repository folder.
 
-We can now view and commit these changes to Github. 
+We can now view and commit these changes to Github.
+
+A new line of text. The force awakens. 
